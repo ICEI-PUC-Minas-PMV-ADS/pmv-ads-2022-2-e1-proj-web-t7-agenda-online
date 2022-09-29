@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Agenda Online
 
 `CURSO`
 
@@ -10,14 +10,16 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* David Gomes Chaves Andrade
+* Ana Carolina Mozelli
+* Vicentina Martins dos Reis
+* Arthur Barbosa Sodre
+* Luiz Gustavo Siqueira Sun
+* Yasmin Liquer Navarro
 
 ## Orientador
 
-* Nome completo do professor 1
+* Marcos Andre Silveria Kutova
 
 ## Instruções de utilização
 
