@@ -1,20 +1,20 @@
 # Agenda Online
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto`
 
-`SEMESTRE`
+`02/2022`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* David Gomes Chaves Andrade
 * Ana Carolina Mozelli
-* Vicentina Martins dos Reis
 * Arthur Barbosa Sodre
+* David Gomes Chaves Andrade
 * Luiz Gustavo Siqueira Sun
+* Vicentina Martins dos Reis
 * Yasmin Liquer Navarro
 
 ## Orientador
