@@ -2,7 +2,9 @@
 
   Dentro de um salão de beleza temos desde serviços especializados em estética capilar, maquiagem, unhas, design de sobrancelhas, podologia, atendimento especializado para noivas e noivos, podendo ainda abranger serviços de estética facial e corporal. Ainda existem salões que oferecem produtos diversificados para atendimento
 nas mais diversas necessidades do segmento de beleza.
+
   Observando este cenário pensamos na ideia de aumentar a praticidade e facilitar o serviço de profissionais da área da beleza, como durante a maioria do tempo útil eles precisam ficar focados nas suas atividades, ganhar tempo com outras tarefas essenciais para um salão, como a marcação da agenda, poderia aliviar grande parte do tempo, que pode ser investido em outras tarefas ou até em mais tempo para que eles possam descansar de um atendimento para o outro.
+  
   Atualmente temos vários exemplos de negócios de sucesso funcionando, como os softwares: Avec, que trabalha diretamente com agendamento de salões na área da beleza ou Calendly, uma plataforma de comunicação empresarial utilizada por equipes para agendar, preparar e acompanhar reuniões externas. Essas são ferramentas de
 agendamento que já estão no mercado, porém com alguns pontos a serem melhorados, que podemos explorar e aplicar dentro da nossa plataforma, usando como base de pesquisa as reclamações respondidas e não respondidas do site Reclame Aqui, percebemos que no geral a falta de comunicação entre as plataformas e seus clientes é um ponto a ser melhorado nesse tipo de serviço, problemas com pagamentos e estornos em caso de cancelamento dos pacotes também são motivos de reclamações dos usuários, um sistema com seus preços e pacotes bem definidos ajudaria a eliminar esse tipo de situação.
 
@@ -31,9 +33,11 @@ profissionais que prestam esse serviço.
 
   Em pesquisa publicada recentemente , o setor de beleza no Brasil é o 2º com o maior número de empresas ativas, nos últimos dois anos o setor contou com a abertura de
 343 mil salões de beleza, número este que representa um crescimento de 33% em relação aos últimos dois anos.
+
   De acordo com matéria publicada pela Beauty Fair2 (Feira Internacional de Beleza Profissional), o modelo de agenda online apresenta as mais diversas vantagens para
 profissionais e gestores, como a modernidade, agilidade, criação de banco de dados de clientes e a redução de faltas e desistências.
 Segundo pesquisa do Diário Popular, os brasileiros passam em média, 5.4 horas diárias acessando conteúdos de aplicativos em seus celulares.
+
   Diante destes dados, percebemos a falta de um software para facilitar o dia a dia de muitos profissionais da área da beleza, direcionando o tempo e atenção gastos nos agendamentos para a recepção do cliente, proporcionando um atendimento mais exclusivo tendo todo o processo na palma da mão.
 
 **Links de referência**:
