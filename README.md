@@ -2,7 +2,7 @@
 
 `Análise e Desenvolvimento de Sistemas`
 
-`Projeto`
+`Projeto: Desenvolvimento de Aplicação Web Front End`
 
 `02/2022`
 
