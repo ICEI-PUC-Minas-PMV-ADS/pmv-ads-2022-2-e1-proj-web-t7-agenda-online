@@ -29,7 +29,6 @@ A solução implementada conta com os seguintes módulos:
 >
 > - [Whimsical](https://whimsical.com/)
 
-Inclua um diagrama da solução e descreva os módulos e as tecnologias que fazem parte da solução. Discorra sobre o diagrama.
 
 A imagem a seguir ilustra a o fluxo do usuário em nossa solução. Assim
 que o usuário entra na plataforma, ele é apresentado à tela inicial
@@ -55,7 +54,8 @@ escolher salvar ou deletar o post. Em ambos os casos o status é
 notificado para o usuário (Tela 8) e em seguida ele é redirecionado
 para a Tela 2.
 
-![Exemplo de UserFlow](img/userflow.jpg)
+![image](https://user-images.githubusercontent.com/85229646/194779879-883d91da-912b-42d9-a184-7529c2937c9f.png)
+![image](https://user-images.githubusercontent.com/85229646/194779867-ecad3d9e-b1a6-49ce-a3d4-aa9f4a236487.png)
 
 
 ## Tecnologias Utilizadas
