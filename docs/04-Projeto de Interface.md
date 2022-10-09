@@ -9,7 +9,8 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## User Flow
 
-![Exemplo de UserFlow](img/userflow.jpg)
+![UserFlow]![image](https://user-images.githubusercontent.com/85229646/194777642-67afbe85-9995-4bc3-b7fa-b16d4f9d80c6.png)
+
 
 Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
 
@@ -21,9 +22,14 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+![image](https://user-images.githubusercontent.com/85229646/194779682-3b96d18e-5626-4998-a367-04251087b186.png)
+![image](https://user-images.githubusercontent.com/85229646/194779697-2bb5e204-cefc-4b15-9b02-890ed14f46e7.png)
+![image](https://user-images.githubusercontent.com/85229646/194779713-16782261-5d2b-4348-9557-a2c949a1f686.png)
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
+
+
+
+São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface, a ferramenta que utilizamos nesse projeto foi o Figma.
  
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
