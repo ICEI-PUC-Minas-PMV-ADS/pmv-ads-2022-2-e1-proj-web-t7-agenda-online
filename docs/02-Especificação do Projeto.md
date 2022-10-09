@@ -18,22 +18,23 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Nicole Ferreira     |                                    |                                        |
-|                    |                                    |                                        |
-|                    |                                    |                                        |
-|                    |                                    |                                        |
-|                    |                                    |                                        |
+|Nicole Ferreira|Visualizar preços de serviços em salão de beleza|Cuidar da estética sem gastar além do orçamento.|
+|Nicole Ferreira|Agendar corte de cabelo sem precisar ligar ou ir até ao estabelecimento.|Otimizar meu tempo.|
+|Nicole Ferreira|Escolher o profissional de minha preferência.|Ter um atendimento satisfatório.|
+|Nicole Ferreira|Realizar meus agendamentos tanto no desktop, quanto no celular.|Ter flexibilidade no uso do app, aproveitando melhor seu tempo.|
+|Nicole Ferreira|Desmarcar um horário agendado, caso surja algum imprevisto.|Ter mais praticidade.|
+|Nicole Ferreira|Consultar meus agendamentos.|Me programar.|
+|Nicole Ferreira|Receber um lembrete sobre agendamentos realizados.|Não esquecer.|
+|Nicole Ferreira|Poder opinar sobre a qualidade do serviço recebido.|Ressaltar o que gostei e o que acredito que possa melhorar.
+|Gleice Dias|Estabelecer meus serviços da semana em um sistema online, disponibilizando horários.|Economizar seu tempo evitando marcação manual de horário.
+|Gleice Dias|Bloquear dias e horários em minha agenda.|Ter flexibilidade para resolver assuntos pessoais, descansar, viajar…
+|Gleice Dias|Organizar meus agendamentos através de computadores.|Programar sua disponibilidade e ganhos semanais.
+|Gleice Dias|Visualizar dias e horários em que tenho clientes agendados.|Organizar minha rotina.
+|Gleice Dias|Receber notificações de agendamentos e cancelamentos.|Me programar e não ficar ociosa.
+|Alexandre|Implantar tecnologia em seu negócio de forma inovadora.|Ter mais eficiência, atrair mais clientes como o público jovem.
+|Alexandre|Receber feedback dos serviços prestados em seu estabelecimento.|Conhecer seus clientes e saber em que precisam melhorar.
+|Alexandre|Conceder e remover acesso de profissionais.|Manter a segurança do sistema e manter o sistema atualizado.
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 
@@ -61,23 +62,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O usuário deve conseguir marcar seu horário em até 5 minutos. | ALTA | 
+|RNF-002| O  usuário deve poder usar o sistema em seu telefone. |  ALTA | 
+|RNF-003| O site deve possuir um contraste de cores para que pessoas com baixa visão consigam usá-lo adequadamente.| BAIXA|
+|RNF-004| O usuário deve poder utilizar o sistema em seu navegador de preferência.| ALTA|
+|RNF-005| O site deve bloquear os horários que já foram marcados.| ALTA|
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
@@ -85,12 +75,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|01| O projeto deve estar pronto e ser entregue até dia 11/12/2022, não é permitido extrapolar essa data. |
+|02| O SITE deve ser feito em JavaScript, CSS e HTML.    |
+|03| A equipe não pode subcontratar o desenvolvimento do trabalho.|
