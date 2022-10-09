@@ -70,10 +70,10 @@ O quadro kanban do grupo desenvolvido na ferramenta de gerenciamento de projetos
 
 As ferramentas empregadas no projeto são:
 
-|Repositório de código fonte|GitHub|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-agenda-online|
+|Repositório de código fonte|GitHub|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-agenda-online
 
-|Documentos do projeto|GitHub|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-agenda-online/tree/main/docs|
+|Documentos do projeto|GitHub|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-agenda-online/tree/main/docs
 
-|Projeto de Interface e  Wireframes|Figma|https://www.figma.com/file/pqruLWuv3YijqbQ19RpIbY/Projeto-ADS-PUC-Minas---Wireframes-2°-Etapa?node-id=0%3A1|
+|Projeto de Interface e  Wireframes|Figma|https://www.figma.com/file/pqruLWuv3YijqbQ19RpIbY/Projeto-ADS-PUC-Minas---Wireframes-2°-Etapa?node-id=0%3A1
 
-|Gerenciamento do Projeto|GitHub|https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/172/views/1|
+|Gerenciamento do Projeto|GitHub|https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/172/views/1
