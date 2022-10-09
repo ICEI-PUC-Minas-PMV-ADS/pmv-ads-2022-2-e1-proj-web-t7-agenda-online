@@ -32,12 +32,19 @@ etiquetas:
 ### Divisão de Papéis
 
 ⦁	Scrum Master: David Gomes Chaves Andrade
+
 ⦁	Product Owner: Ana Carolina Mozelli
+
 ⦁	Equipe de Desenvolvimento:
+
 ⦁	Vicentina Martins dos Reis
+
 ⦁ Yasmin Liquer Navarro
+
 ⦁	Equipe de Design:
+
 ⦁	Arthur Barbosa Sodre
+
 ⦁ Luiz Gustavo Siqueira Sun
 
 
