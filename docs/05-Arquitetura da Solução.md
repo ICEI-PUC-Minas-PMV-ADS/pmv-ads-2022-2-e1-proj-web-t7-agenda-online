@@ -25,10 +25,6 @@ A solução implementada conta com os seguintes módulos:
  - **News API** - plataforma que permite o acesso às notícias exibidas no site.
  - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
 
-> **Links Úteis**:
->
-> - [Whimsical](https://whimsical.com/)
-
 
 A imagem a seguir ilustra a o fluxo do usuário em nossa solução. Assim
 que o usuário entra na plataforma, ele é apresentado à tela inicial
@@ -71,7 +67,3 @@ Explique como a hospedagem e o lançamento da plataforma foi feita.
 > **Links Úteis**:
 >
 > - [Figma](https://www.figma.com/files/recent?fuid=920789973027243744)
-> - [Website com GitHub Pages](https://pages.github.com/)
-> - [Programação colaborativa com Repl.it](https://repl.it/)
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Publicando Seu Site No Heroku](http://pythonclub.com.br/publicando-seu-hello-world-no-heroku.html)
