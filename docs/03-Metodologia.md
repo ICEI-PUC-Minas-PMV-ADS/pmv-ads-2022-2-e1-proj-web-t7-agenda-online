@@ -39,12 +39,15 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+⦁	Scrum Master: David Gomes Chaves Andrade
+⦁	Product Owner: Ana Carolina Mozelli
+⦁	Equipe de Desenvolvimento:
+⦁	Vicentina Martins dos Reis
+⦁ Yasmin Liquer Navarro
+⦁	Equipe de Design:
+⦁	Arthur Barbosa Sodre
+⦁ Luiz Gustavo Siqueira Sun
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 ### Processo
 
