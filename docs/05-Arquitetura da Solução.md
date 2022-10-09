@@ -70,6 +70,7 @@ Explique como a hospedagem e o lançamento da plataforma foi feita.
 
 > **Links Úteis**:
 >
+> - [Figma](https://www.figma.com/files/recent?fuid=920789973027243744)
 > - [Website com GitHub Pages](https://pages.github.com/)
 > - [Programação colaborativa com Repl.it](https://repl.it/)
 > - [Getting Started with Heroku](https://devcenter.heroku.com/start)
