@@ -60,10 +60,9 @@ para a Tela 2.
 
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
+Por enquanto estamos utilizando somente o software de Desing "Figma" que tem todas as ferramentas que iremos precisar para montar desde os wireframes até um protótipo de alta qualidade para o nosso projeto. 
 
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
-
+![image](https://user-images.githubusercontent.com/85229646/194780128-111831e4-6e65-485d-aade-4903eafd577c.png)
 
 ## Hospedagem
 
