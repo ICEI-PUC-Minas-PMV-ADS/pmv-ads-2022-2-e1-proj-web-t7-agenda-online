@@ -27,7 +27,7 @@ cancelamento de agendamentos;
 de horários;
 
 • Permitir a consulta dos serviços disponíveis no salão, de seus valores e dos
-profissionais que prestam esse serviço.
+profissionais que prestam esse serviço;
  
 
 ## Justificativa
