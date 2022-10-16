@@ -6,7 +6,7 @@
 
 `02/2022`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+A Agenda Online facilita o dia a dia dos profissionais e clientes que utilizam essa ferramenta, trazendo mais praticidade.
 
 ## Integrantes
 
