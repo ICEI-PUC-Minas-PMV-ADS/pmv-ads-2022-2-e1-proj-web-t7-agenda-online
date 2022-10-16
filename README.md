@@ -6,7 +6,7 @@
 
 `02/2022`
 
-A Agenda Online facilita o dia a dia dos profissionais e clientes que utilizam essa ferramenta, trazendo mais praticidade.
+A Agenda Online facilita o dia a dia dos profissionais e clientes que utilizam essa ferramenta, trazendo mais eficiência, praticidade, organização e flexibilidade. 
 
 ## Integrantes
 
