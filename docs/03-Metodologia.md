@@ -52,15 +52,60 @@ etiquetas:
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o GitHub estruturado com as seguintes listas: 
 
-⦁	Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
+⦁	Backlog:
 
-⦁	To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando.
+![image](https://user-images.githubusercontent.com/114623537/196296102-5dbaddfe-77cc-4ffe-ad29-32d5e28d43ab.png)
 
-⦁	Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
+⦁**SPRINT 1**
 
-⦁	Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
+⦁**Planejamento**: Nessa Sprint planejamos efetuar a especificação do projeto e a documentação de contexto.
 
-O quadro kanban do grupo desenvolvido na ferramenta de gerenciamento de projetos está disponível através da URL [xxxx](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/172) e é apresentado, no estado atual, na Figura X. 
+-Responsáveis por Documentação de contexto: Luiz e David.
+
+-Responsáveis por Especificação do projeto: Arthur, Ana, Vicentina e Yasmin
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+⦁**Execução**: Conseguimos efetuar tudo que planejamos no começo da Sprint.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+⦁**Evidências**: 
+
+-Documentação de contexto: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-agenda-online/blob/main/docs/01-Documentação%20de%20Contexto.md
+
+-Especificação do projeto: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-agenda-online/blob/main/docs/02-Especificação%20do%20Projeto.md
+
+Quadro Kanban referente a essa Sprint:
+
+![image](https://user-images.githubusercontent.com/114623537/196298841-fddfecd9-b823-439c-8cdd-c8b99d24b0a5.png)
+
+
+⦁**SPRINT 2**
+
+⦁**Planejamento**: Nessa Sprint planejamos criar os wireframes, o fluxo de usuário, a metodologia e a arquitetura de solução do projeto.
+
+-Responsáveis por Wireframes e Fluxo de usuário: Luiz e Arthur
+
+-Responsáveis por Metodologia: Ana Carolina e David
+
+-Responsáveis por Arquitetura de solução: Vicentina e Yasmin
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+⦁**Execução**: Conseguimos efetuar tudo que planejamos no começo da Sprint.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+⦁**Evidências**: 
+
+-Wireframes e Fluxo : https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-agenda-online/blob/main/docs/04-Projeto%20de%20Interface.md
+
+-Metodologia: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-agenda-online/blob/main/docs/03-Metodologia.md
+
+-Arquitetura de solução do projeto: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t7-agenda-online/blob/main/docs/05-Arquitetura%20da%20Solução.md
+
+Quadro Kanban referente a essa Sprint:
 
 ![image](https://user-images.githubusercontent.com/114623537/194782442-5f9683a1-82b1-4e93-8e1c-805d7d35257a.png)
 
