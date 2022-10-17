@@ -44,19 +44,18 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-01| O site deve exibir somente os horários disponíveis para o cliente. | ALTA | 
-|RF-02| O usuário deve poder agendar um horário (se disponível).  | ALTA |
-|RF-03| O usuário deve poder consultar o horário marcado sempre que necessário. | MÉDIA |
-|RF-04| O gestor e os funcionários deve poder consultar o horário marcado sempre que necessário. | MÉDIA |
-|RF-05| O usuário deve conseguir cancelar o horário marcado. | ALTA |
-|RF-06| O gestor deve ter acesso aos feedbacks recebidos. | BAIXA |
-|RF-07| O gestor deve ter acesso a agenda de todos os profissionais. | ALTA |
-|RF-08| O profissional deve conseguir ver os horários marcados e quem ele irá atender. | MÉDIA |
-|RF-09| O usuário deve conseguir ver o valor do serviço desejado. | MÉDIA |
-|RF-10| O usuário deve poder escolher o profissional de sua preferência. | ALTA |
-|RF-11| O site deve exibir todos os dias do mês, porém somente os dias disponíveis devem estar destacados. | ALTA |
-|RF-12| O profissional deve poder bloquear sua agenda. | ALTA |
-|RF-13| Os usuários devem receber lembretes do horário marcado. | BAIXA |
+|RF-01| O usuário deve poder agendar um horário (se disponível).  | ALTA |
+|RF-02| O usuário deve poder consultar o horário marcado sempre que necessário. | MÉDIA |
+|RF-03| O gestor e os funcionários deve poder consultar o horário marcado sempre que necessário. | MÉDIA |
+|RF-04| O usuário deve conseguir cancelar o horário marcado. | ALTA |
+|RF-05| O gestor deve poder consultar os feedbacks recebidos. | BAIXA |
+|RF-06| O gestor deve poder gerenciar a agenda de todos os profissionais. | ALTA |
+|RF-07| O profissional deve conseguir ver os horários marcados e quem ele irá atender. | MÉDIA |
+|RF-08| O usuário deve conseguir ver o valor do serviço desejado. | MÉDIA |
+|RF-09| O usuário deve poder escolher o profissional de sua preferência. | ALTA |
+|RF-10| O site deve exibir todos os dias do mês, porém somente os dias disponíveis devem estar destacados. | ALTA |
+|RF-11| O profissional deve poder bloquear sua agenda. | ALTA |
+|RF-12| Os usuários devem receber lembretes do horário marcado. | BAIXA |
 
 ### Requisitos não Funcionais
 
@@ -67,7 +66,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-003| O site deve possuir um contraste de cores para que pessoas com baixa visão consigam usá-lo adequadamente.| BAIXA|
 |RNF-004| O usuário deve poder utilizar o sistema em seu navegador de preferência.| ALTA|
 |RNF-005| O site deve bloquear os horários que já foram marcados.| ALTA|
-
+|RNF-006| O site deve exibir somente os horários disponíveis para o cliente|ALTA|
 
 ## Restrições
 
