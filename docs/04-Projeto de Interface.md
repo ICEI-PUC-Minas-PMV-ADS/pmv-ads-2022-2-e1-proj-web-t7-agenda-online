@@ -9,21 +9,36 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## User Flow
 
-![image](https://user-images.githubusercontent.com/85229646/194779879-883d91da-912b-42d9-a184-7529c2937c9f.png)
-![image](https://user-images.githubusercontent.com/85229646/194779867-ecad3d9e-b1a6-49ce-a3d4-aa9f4a236487.png)
+**Administrador**
+
+![image](https://user-images.githubusercontent.com/114623537/197587096-02f59fa2-b3c5-4aca-b81b-265f4ad1064f.png)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ **Profissional**
+ 
+ ![image](https://user-images.githubusercontent.com/114623537/197587262-532b3b1d-6632-46d5-95fa-d7bb2edad27a.png)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Usuário**
+
+![image](https://user-images.githubusercontent.com/114623537/197587497-f830506b-806f-4ea3-8d31-f5a4e886059f.png)
 
 
 
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
+
+
 
 
 
 
 ## Wireframes
 
-![image](https://user-images.githubusercontent.com/85229646/194779682-3b96d18e-5626-4998-a367-04251087b186.png)
-![image](https://user-images.githubusercontent.com/85229646/194779697-2bb5e204-cefc-4b15-9b02-890ed14f46e7.png)
-![image](https://user-images.githubusercontent.com/85229646/194779713-16782261-5d2b-4348-9557-a2c949a1f686.png)
+**Usuário**
+
+![image](https://user-images.githubusercontent.com/114623537/197588360-866d9ff0-ad77-405d-b884-38103540177c.png)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
