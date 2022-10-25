@@ -37,15 +37,15 @@ etiquetas:
 
 ⦁	Equipe de Desenvolvimento:
 
---  ⦁	Vicentina Martins dos Reis
+-  	Vicentina Martins dos Reis
 
---  ⦁ Yasmin Liquer Navarro
+-   Yasmin Liquer Navarro
 
 ⦁	Equipe de Design:
 
---  ⦁	Arthur Barbosa Sodre
+-  	Arthur Barbosa Sodre
 
---  ⦁ Luiz Gustavo Siqueira Sun
+-   Luiz Gustavo Siqueira Sun
 
 
 ### Processo
