@@ -29,8 +29,8 @@ profissionais que prestam esse serviço;
 
 ## Justificativa
 
-  Em pesquisa publicada recentemente pelo site TERRA (EM 2 anos, Brasil abriu 343 mil salões de beleza. **Terra**, 24 de julho de 2022. Disponível em: <https://www.terra.com.br/economia/em-2-anos-brasil-abriu-343-mil-saloes-de-beleza,42910cf3702f60fd6efbef4757ecd705iy9mylt3.html> ), o setor de beleza no Brasil é o 2º com o maior número de empresas ativas, nos últimos dois anos o setor contou com a abertura de 343 mil salões de beleza, número este que representa um crescimento de 33% em relação aos últimos dois anos.
-  De acordo com matéria publicada pela Beauty Fair2 (ALVES, J. Agendamento online: praticidade a serviço do seu salão. **Beauty Fair**, 29 de agosto de 2019. Disponível em: <https://www.beautyfair.com.br/agendamento-online-praticidade-a-servico-do-seu-salao/> ), o modelo de agenda online apresenta as mais diversas vantagens para
+  Em pesquisa publicada recentemente pelo site TERRA(2022), o setor de beleza no Brasil é o 2º com o maior número de empresas ativas, nos últimos dois anos o setor contou com a abertura de 343 mil salões de beleza, número este que representa um crescimento de 33% em relação aos últimos dois anos.
+  De acordo com matéria publicada pela BEAUTY FAIR(2019), o modelo de agenda online apresenta as mais diversas vantagens para
 profissionais e gestores, como a modernidade, agilidade, criação de banco de dados de clientes e a redução de faltas e desistências.
   Segundo pesquisa do Diário Popular, os brasileiros passam em média, 5.4 horas diárias acessando conteúdos de aplicativos em seus celulares.
   Diante destes dados, percebemos a falta de um software para facilitar o dia a dia de muitos profissionais da área da beleza, direcionando o tempo e atenção gastos nos agendamentos para a recepção do cliente, proporcionando um atendimento mais exclusivo tendo todo o processo na palma da mão.
