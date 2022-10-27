@@ -10,10 +10,10 @@ Diagrama que permite a modelagem física de um sistema, através da visão dos s
 
 Exemplo: 
 
-Os componentes que fazem parte da solução são apresentados na Figura XX.
+Os componentes que fazem parte da solução são apresentados na Figura 01.
 
 ![Diagrama de Componentes](img/componentes.png)
-<center>Figura XX - Arquitetura da Solução</center>
+<center>Figura 01 - Arquitetura da Solução</center>
 
 A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema
@@ -27,12 +27,8 @@ A solução implementada conta com os seguintes módulos:
 
 ## Tecnologias Utilizadas
 
-Por enquanto estamos utilizando somente o software de Desing "Figma" que tem todas as ferramentas que iremos precisar para montar desde os wireframes até um protótipo de alta qualidade para o nosso projeto. 
+Por enquanto estamos utilizando somente o software de Designer "Figma" que tem todas as ferramentas que iremos precisar para montar desde os wireframes até um protótipo de alta qualidade para o nosso projeto. 
 
 ## Hospedagem
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
 
-> **Links Úteis**:
->
-> - [Figma](https://www.figma.com/files/recent?fuid=920789973027243744)
