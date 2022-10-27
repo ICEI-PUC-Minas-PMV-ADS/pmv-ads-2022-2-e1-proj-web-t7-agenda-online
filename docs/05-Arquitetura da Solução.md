@@ -19,7 +19,7 @@ A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema
   - **Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
    - **Local Storage** - Armazenamento mantido no navegador, onde são implementados bancos de dados baseados em JSON
-   - **Servidor web** - Local na Internet onde as páginas são mantidas e acessadas pelo navegador.
+   - **Servidor Web** - Local na Internet onde as páginas são mantidas e acessadas pelo navegador.
 
 
 
@@ -28,8 +28,6 @@ A solução implementada conta com os seguintes módulos:
 ## Tecnologias Utilizadas
 
 Por enquanto estamos utilizando somente o software de Desing "Figma" que tem todas as ferramentas que iremos precisar para montar desde os wireframes até um protótipo de alta qualidade para o nosso projeto. 
-
-![image](https://user-images.githubusercontent.com/85229646/194780128-111831e4-6e65-485d-aade-4903eafd577c.png)
 
 ## Hospedagem
 
