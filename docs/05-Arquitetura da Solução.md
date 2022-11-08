@@ -13,11 +13,10 @@ Os componentes que fazem parte da solução são apresentados na Figura 01.
 <center>Figura 01 - Arquitetura da Solução</center>
 
 A solução implementada conta com os seguintes módulos:
-- **Navegador** - Interface básica do sistema
+- **Navegador** - Interface básica do sistema.
   - **Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
-   - **Local Storage** - Armazenamento mantido no navegador, onde são implementados bancos de dados baseados em JSON
-   - **Servidor Web** - Local na Internet onde as páginas são mantidas e acessadas pelo navegador.
-   - **Hospedagem** - Local na Internet onde as páginas são mantidas e acessadas pelo navegador.
+   - **Local Storage** - Armazenamento mantido no navegador, onde são implementados bancos de dados baseados em JSON.
+- **Hospedagem** - Local na Internet onde as páginas são mantidas e acessadas pelo navegador.
 
 
 
