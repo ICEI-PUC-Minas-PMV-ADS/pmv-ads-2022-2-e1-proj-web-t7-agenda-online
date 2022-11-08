@@ -28,7 +28,7 @@ A solução implementada conta com os seguintes módulos:
 
 ## Tecnologias Utilizadas
 
-Por enquanto estamos utilizando somente o software de Designer "Figma" que tem todas as ferramentas que iremos precisar para montar desde os wireframes até um protótipo de alta qualidade para o nosso projeto. 
+No momento estamos utilizando o Vs Code e as linguagens: HTML, CSS, JavaScript.
 
 ## Hospedagem
 
