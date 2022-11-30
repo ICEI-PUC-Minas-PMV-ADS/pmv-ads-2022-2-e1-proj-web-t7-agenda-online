@@ -33,6 +33,10 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## Wireframes
 
+**Adm**
+
+![image](https://user-images.githubusercontent.com/114624183/204677366-afc90e22-a086-4afe-b5a8-ac80cbfd71db.png)
+
 **Usuário**
 
 ![image](https://user-images.githubusercontent.com/114623537/197588360-866d9ff0-ad77-405d-b884-38103540177c.png)
