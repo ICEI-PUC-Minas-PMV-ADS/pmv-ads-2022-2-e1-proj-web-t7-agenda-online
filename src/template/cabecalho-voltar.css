@@ -1,0 +1,28 @@
+body {
+    background-color: #ffffff;
+    margin: 0;
+    max-height: 27px;
+}
+
+div.cabecalho {
+    width: 100%;
+    max-height: 27px;
+}
+
+a {
+    color: #2C80FE;
+    text-decoration: none;
+    float: left;
+    font-size: 15pt;
+    margin-left: 3%;
+    margin-top: -1%;
+}
+
+p {
+    color: #2C80FE;
+    margin: 0 auto;
+    width: 113px;
+    font-family: 'Arial';
+    font-weight: bold;
+    margin-top: 2%;
+}
