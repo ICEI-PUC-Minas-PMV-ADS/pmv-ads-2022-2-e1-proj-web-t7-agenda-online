@@ -21,7 +21,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Usuário**
 
-![image](https://user-images.githubusercontent.com/114623537/197587497-f830506b-806f-4ea3-8d31-f5a4e886059f.png)
+![image](https://user-images.githubusercontent.com/114624183/206863590-9a5b69f7-d443-4a0d-b4fe-4317b1760e6f.png)
 
 
 
