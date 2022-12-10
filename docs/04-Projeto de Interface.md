@@ -35,11 +35,11 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 **Adm**
 
-![image](https://user-images.githubusercontent.com/114624183/204677366-afc90e22-a086-4afe-b5a8-ac80cbfd71db.png)
+![image](https://user-images.githubusercontent.com/114624183/206863099-62342e65-ea80-4456-a0b1-e71c6e980c4c.png)
 
 **Usuário**
 
-![image](https://user-images.githubusercontent.com/114624183/204677977-32dfbf40-3c79-4ddd-8752-fcaba9cbab69.png)
+![image](https://user-images.githubusercontent.com/114624183/206863102-1ae9bcae-4ef5-4b47-9fe3-a0b644787ce5.png)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
