@@ -1,0 +1,159 @@
+body {
+    background-color: #ffffff;
+    color: #000000;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+@media (width < 1000px) {
+    body {
+        max-width: 100%;
+    }
+}
+
+iframe {
+    width: 100%;
+    max-height: 33px;
+}
+
+h1 {
+    color: #212529;
+    margin: 1% auto;
+    font-family: 'Arial';
+    font-weight: bold;
+    font-size: 23pt;
+    width: 386px;
+}
+
+h2 {
+    color: #1E9700;
+    margin: 1% auto;
+    font-size: 18px;
+    font-family: 'Arial';
+}
+
+div.topo h2.confirmar-agendamento {
+    width: 310px;
+}
+
+div.topo h2.horario-agendado {
+    width: 163px;
+}
+
+img {
+    margin: 1% auto;
+    width: 150px;
+}
+
+.perfil p {
+    margin: 0 auto;
+    font-family: 'Arial';
+    font-weight: bold;
+    width: 90px;
+}
+
+div.circulo {
+    display: block;
+    width: 130px;
+    height: 130px;
+    background: #E6E7ED;
+    border-radius: 110px;
+    -moz-border-radius: 110px;
+    -webkit-border-radius: 110px;
+    background-image: url(profile.webp);
+    background-position:50% 50%;
+    background-repeat:no-repeat;
+    background-size: 230px;
+    margin: 5% auto 2%;
+}
+
+div.pedido {
+    margin: 65px auto 30px;
+}
+
+div.pedido p {
+    margin: 0 auto;
+    font-family: 'Arial';
+    font-weight: bold;
+}   
+
+div.pedido p.detalhes {
+    width: 155px;
+}
+
+div.pedido p.corte {
+    width: 186px;
+}
+
+div.pedido img {
+    display: block;
+    width: 100px;
+    height: 100px;
+    margin: 1% auto;
+}
+
+div.servico p.solicitacao {
+    margin-top: 50px;
+}
+
+div.servico p {
+    margin: 5px auto;
+    font-family: 'Arial';
+    font-size: 10pt;
+    width: 280px;
+    color: #626262;
+    font-weight: bold;
+}
+
+div.servico p.descricao {
+    font-weight: normal;
+    margin: 0 auto;
+    width: 118px;
+}
+
+a.button {
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    margin: 0 10% 2%;
+    width: 80%;
+    font-family: Arial;
+    border: none;
+    padding: 1.5%;
+    font-weight: bold;
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    text-decoration: none;
+    color: initial;
+    text-align: center;
+}
+
+a.button-confirmar {
+    background-color: #1E9700;
+    color: #ffffff;
+}
+
+a.button-cancelar {
+    background-color: #970900;
+    color: #ffffff;
+}
+
+div.total {
+    max-width: 280px;
+    margin: 40px auto 0;
+}
+
+div.total p {
+    font-family: arial;
+    font-weight: bold;
+    font-size: 10pt;
+}
+
+div.total p.texto-total {
+    float: left;
+}
+
+div.total p.valor-total {
+    float: right;
+}
