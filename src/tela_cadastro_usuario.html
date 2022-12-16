@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<br>
+<br>
+
+<head>
+    <meta charset="UTF-8">
+    <script defer src="cadastro.js"></script>
+    <link rel="stylesheet" href="style2.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <title>Cadastro</title>
+</head>
+
+<body>
+    <nav class="navbar navbar-light bg-white">
+        <div class="container-fluid">
+            <a class=" text-primary navbar-brand" href="tela_clienteXadm.html"><svg xmlns="http://www.w3.org/2000/svg"
+                    width="35" height="35" fill="currentColor" class="bi bi-arrow-left" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd"
+                        d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8z" />
+                </svg> </a>
+
+        </div>
+    </nav>
+
+        <br><br>
+
+    </div>
+
+    <div class="text-center">
+        <div class="container mt-5">
+            <div class="md-8">
+                <h5 style="font-weight: bold; font-size:23px;" class="text-primary">Agenda Online</h5>
+                <h1 class="mt-5" style="font-weight: bold; font-size:38px; color: black;">Crie sua conta</h1>
+                <label class="mt-3" style="font-weight: bold; font-size:18px; color: gray;">Bem-vindo, digite suas
+                    informações</label>
+            </div>
+
+            <br>
+
+            <form action="tela_login_usuario.html" method="POST"></form>
+            <div class="col-md-12 mt-3">
+
+                <div class="form-group">
+                    <label for="" style="font-size: 18px; font-weight: 500;">Nome<span class="text-danger">
+                            *</span></label>
+                    <input type="login" class="form-control" placeholder="Escreva seu Nome" id="login" name="login">
+                </div>
+                <br>
+                <div class="form-group">
+                    <label for="usuario" style="font-size: 18px; font-weight: 500;">Email<span class="text-danger">
+                            *</span></label>
+                    <input type="usuario" class="form-control" placeholder="Escreva seu email" id="email" name="email">
+                </div>
+                <br>
+                <div class="form-group">
+                    <label for="senha" style="font-size: 18px; font-weight: 500;">Senha<span class="text-danger">
+                            *</span></label>
+                    <input type="password" class="form-control" placeholder="Escreva sua senha" id="password"
+                        name="password">
+                </div>
+            </div>
+            </form>
+
+            <br>
+            <div class="text-center">
+                <a href="tela_usuariologado.html"><button onclick="cadastro" id="BtnInserir" type="submit"
+                        class="btn btn-primary">Cadastrar
+                    </button></a>
+            </div>
+            <br>
+            <br>
+
+            <label style="font-size: 20px; ">Já possui uma conta? <a href="tela_login_usuario.html"
+                    style="font-size: 20px;">
+                    Entre aqui!</a></label>
+
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>

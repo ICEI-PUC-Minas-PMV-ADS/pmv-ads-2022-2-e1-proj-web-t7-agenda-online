@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agenda Online - Novo profissional</title>
+    <link rel="stylesheet" href="style5.css">
+</head>
+<body>
+    <!-- MENU DE CIMA -->
+    <nav id="menu">
+        <h1>Novo profissional</h1>
+        <br>
+        <ul id="menu-horizontal">
+            <li> <a href="#"> <img src="icon-ao/icon-profissional-selected.png" alt="profissional"> </a> </li>
+            <li> <a href="#"> <img src="icon-ao/icon-horarios.png" alt="horarios"> </a> </li>
+            <li> <a href="#"> <img src="icon-ao/icon-servicos.png" alt="servicos"> </a> </li>
+        </ul>
+    </nav>
+
+    <br>
+
+    <!-- FORMULARIO -->
+    <nav id="formulario" class="box">
+        <div class="inputBox">
+            <label for="nome">Nome do profissional</label>
+            <br>
+            <input type="text" name="Nome" id="nome" class="inputUser" placeholder="Escreva seu nome" required>
+        </div>
+        <br>
+        <div class="inputBox">
+            <label for="apelido">Apelido</label>
+            <br>
+            <input type="text" name="apelido" id="apelido" class="inputUser" placeholder="Escreva o seu apelido" required>
+        </div>
+        <br>
+        <div class="inputBox">
+            <label for="telefone">Telefone</label>
+            <br>
+            <input type="tel" name="telefone" id="telefone" class="inputUser" placeholder="Digite seu DDD + telefone" required>
+        </div>
+        <br>
+        <div class="inputBox">
+            <label for="cor_confirmado">Cor do agendamento confirmado</label>
+            <br>
+            <select name="cor_confirmado" id="cor_confirmado">
+                <option value="" selected>-- Selecione uma cor --</option>
+                <option>Azul</option>
+                <option>Verde</option>
+                <option>Amarelo</option>
+                <option>Laranja</option>
+                <option>Vermelho</option>
+                <option>Roxo</option>
+                <option>Rosa</option>
+            </select>
+        </div>
+        <br>
+        <div class="inputBox">
+            <label for="cor_pendente">Cor do agendamento pendente</label>
+            <br>
+            <select name="cor_pendente" id="cor_pendente">
+                <option value="" selected>-- Selecione uma cor --</option>
+                <option>Azul</option>
+                <option>Verde</option>
+                <option>Amarelo</option>
+                <option>Laranja</option>
+                <option>Vermelho</option>
+                <option>Roxo</option>
+                <option>Rosa</option>
+            </select>
+        </div>
+        <br>
+        <div class="inputBox">
+            <label for="cor_finalizado">Cor do agendamento finalizado</label>
+            <br>
+            <select name="cor_confirmado" id="finalizado">
+                <option value="" selected>-- Selecione uma cor --</option>
+                <option>Azul</option>
+                <option>Verde</option>
+                <option>Amarelo</option>
+                <option>Laranja</option>
+                <option>Vermelho</option>
+                <option>Roxo</option>
+                <option>Rosa</option>
+            </select>
+        </div>
+
+        <br>
+
+        <a href="novo_profissional2.html"><button class="button" type="submit">Salvar</button></a>
+    </nav>
+
+</body>
+</html>

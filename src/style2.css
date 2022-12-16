@@ -1,0 +1,108 @@
+h1 {
+    color: rgb(55, 122, 247);
+    font-family: arial;
+    font-size: 22px;
+    text-align: center
+}
+
+h2 {
+    font-family: arial;
+    font-size: 30px;
+    text-align: center
+}
+
+p {
+    color: rgb(59, 59, 59);
+    font-family: arial;
+    font-size: 15px;
+    text-align: center
+}
+
+button {
+    font-size: 17px;
+    text-align: center;
+    width: 10cm;
+    color: white;
+    background-color: rgb(55, 122, 247);
+    font-family: arial;
+    border-radius: 6px;
+    border-color: rgb(55, 122, 247);
+}
+
+#Perso {
+    font-family: arial;
+    border-radius: 5px;
+    width: 8cm;
+}
+
+p4 {
+    text-align: center;
+    font-family: arial;
+}
+
+p2 {
+    text-align: center;
+    font-family: arial;
+}
+
+p3 {
+    text-align: center;
+    font-family: arial;
+}
+
+form {
+    text-align: center;
+}
+
+input {
+    text-align: center;
+}
+
+body {
+    text-align: center;
+}
+
+p5 {
+    text-align: center;
+    font-family: arial;
+}
+
+p6 {
+    text-align: center;
+    font-family: arial;
+}
+
+p7 {
+    text-align: center;
+    font-family: arial;
+}
+
+p8 {
+    color: rgb(59, 59, 59);
+    text-align: center;
+    font-family: arial;
+    font-size: 15px;
+}
+
+a {
+    font-family: arial;
+    font-size: 15px;
+}
+
+div.cabecalho {
+    width: 100%;
+    max-height: 27px;
+}
+
+a2 {
+    color: #2C80FE;
+    text-decoration: none;
+    float: left;
+    font-size: 25pt;
+    margin-left: 3%;
+    margin-top: -1%;
+}
+
+div.text-center {
+    text-align: center;
+}

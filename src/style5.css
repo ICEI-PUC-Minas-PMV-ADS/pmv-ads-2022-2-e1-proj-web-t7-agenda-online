@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+#menu{
+    background-color: #2C80FE;
+    text-align: center;
+    height: 155px;
+    color: white;
+}
+
+#menu h1{
+    padding-top: 25px;
+    font-size: 28px;
+}
+
+#menu-horizontal li{
+    display: inline;
+}
+
+#menu-horizontal img{
+    width: 64px;
+    height: 64px;
+    display: inline-block;
+    padding: 5px;
+}
+
+#menu-horizontal li a{
+    color: white;
+    padding: 20px;
+    padding-top: 10px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.box{
+    padding-top: 50px;
+    position: relative;
+    text-align: left;
+    width: 50%;
+    height: 812px;
+    left: 10px;
+}
+
+.inputBox{
+    position: relative;
+    padding-top: 10px;
+}
+
+.inputUser{
+    background: none;
+    box-sizing: border-box;
+    align-items: center;
+    /*padding: 6px 12px;*/
+    border: 1px solid #CED4DA;
+    border-radius: 4px;
+    outline: none;
+    width: 100%;
+    height: 38px;
+}
+
+label{
+    font-size: 16px;
+    position: relative;
+}
+
+select{
+    background: none;
+    box-sizing: border-box;
+    align-items: center;
+    /*padding: 6px 12px;*/
+    border: 1px solid #CED4DA;
+    border-radius: 4px;
+    width: 100%;
+    height: 38px;
+}
+
+button{
+    box-sizing: border-box;
+    position: relative;
+    align-items: center;
+    background: #2C80FE;
+    width: 100%;
+    height: 38px;
+    border: 1px solid #0D6EFD;
+    border-radius: 4px;
+    color: white;
+    
+    top: 20px;
+
+}
