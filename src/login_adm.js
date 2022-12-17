@@ -1,17 +1,15 @@
-function logar() {
-    var email = document.getElementById("email");
-    var password = document.getElementById("password");
-
-    console.log(email.value+password.value);
-
-    if(email.value == "admin@admin.com" && password.value == "admin") {
-        localStorage.setItem("acesso", true);
-
-        window.location.href = "tela_admlogado.html";
+function Login() {
+    var done = 0;
+    var usuario = document.getElementsByName('email')[0].value;
+    usuario = usuario.toLowerCase();
+    var senha = document.getElementsByName('password')[0].value;
+    senha = senha.toLowerCase();
+    if (usuario == "admin@admin.com" && senha == "admin") {
+        alert("Login bem sucedido!")
+        window.location = "tela_admlogado.html";
+        done = 1;
     }
     else {
-        alert("Usuário ou senha incorretos!")
+        alert("Dados incorretos, tente novamente");
     }
-
-
 }
