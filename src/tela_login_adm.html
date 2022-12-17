@@ -35,16 +35,16 @@
                 </div>
             </div>
             <br>
-            <form action="tela_admlogado.html" method="POST">
+            <!--<form action="tela_admlogado.html" method="POST">-->
                 <div class="col-md-12 mt-3">
                     <label for="usuario" style="font-size: 18px; font-weight: 500;">Email<span class="text-danger">
                             *</span></label>
-                    <input type="usuario" class="form-control mt-2" placeholder="Escreva seu email" required id="login"
-                        name="login">
+                    <input type="usuario" class="form-control mt-2" placeholder="Escreva seu email" id="email"
+                        name="email">
                 </div>
 
                 <div class="col-md-12 mt-3">
-                    <label for="senha" style="font-size: 18px; font-weight: 500;">Senha<span class="text-danger">
+                    <label for="password" style="font-size: 18px; font-weight: 500;">Senha<span class="text-danger">
                             *</span></label>
                     <input type="password" class="form-control mt-2" placeholder="Escreva sua senha" id="password"
                         name="password">
@@ -52,7 +52,7 @@
 
                 <br><br>
 
-                <button onclick="logar" type="submit" class="btn btn-primary">Entrar</button>
+                <button onclick="Login()" type="submit" class="btn btn-primary">Entrar</button>
 
         </div>
 
